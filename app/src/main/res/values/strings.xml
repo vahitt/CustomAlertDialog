@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomAlertDialog</string>
+    <string name="registerName">Name:</string>
+    <string name="registerSurname">Surname:</string>
+    <string name="registerUserName">UserName:</string>
+    <string name="registerPassword">Password:</string>
+</resources>
