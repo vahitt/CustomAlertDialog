@@ -33,7 +33,7 @@
                 android:drawablePadding="10dp"
                 android:drawableLeft="@drawable/close_button"
                 android:gravity="center_vertical"
-                android:text="ÇIKIŞ"
+                android:text="EXIT"
                 android:paddingLeft="5dp"
                 android:paddingRight="8dp"
                 android:textSize="@dimen/text_medium"
